@@ -38,7 +38,7 @@ A complete IoT-based home automation system built during my internship at Emertx
 
 ## 🖼️ Screenshots
 
-![Screenshot of the project](git clone https://github.com/AyushMane1229/LAZAREV.git)  
+![Screenshot of the project](https://github.com/AyushMane1229/iot-home-automation/blob/8001ff57c3611e69d74b051e7273517dc9863a07/Screenshot.png)  
 
 
 ## 🛠️ Installation
